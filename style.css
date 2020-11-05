@@ -7,13 +7,27 @@
   place-items: flex-start;
 }
 
-.fline, html {
-  height: 100vh;
+.solarflare, html {
+  height: vh;
   display: grid;
   place-items: flex-start.
-    
-  .emblems, html {position: relative;
-  height: 15px;
-  display: grid;
-  place-items: flex-start}
+}  
   
+  
+.vortex, html {
+  height: 10vh;
+  display: grid;
+  place-items: flex-start.
+}
+
+.nebula, html {
+  height: 10vh;
+  display: grid;
+  place-items: flex-start.
+}
+
+.stardust, html {
+  height: 10vh;
+  display: grid;
+  place-items: flex-start.
+}
